@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Allan Miranda 👋
 
  - 🌱 Atualmente estou desenvolvendo projetos de ciencias de dados e analises de Dados.
- - 😀 Estudando Ml na I2A2
+ - 😀 Estudando ML na I2A2
  - ​  Pronomus: ele/dele
 
  <div align="center">
