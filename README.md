@@ -4,11 +4,12 @@ I'm currently an Apprentice and in Data Scientis, with a Bachelor's Degree in En
 
 I love technology, playing video games and learning new things!
 
- <div align="center">
-   <a href="https://github.com/HallanMiranda">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HallanMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanMiranda&layout=compact&langs_count=7&theme=dark"/>
- </div>
+<div align="center">
+    <a href="https://github.com/HallanMiranda">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HallanMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanMiranda&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+  </div>
   
   ## Some Tools that I work with
   <!-- Tools  -->
