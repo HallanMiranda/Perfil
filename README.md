@@ -6,8 +6,8 @@ I love technology, playing video games and learning new things!
 
  <div align="center">
    <a href="https://github.com/HallanMiranda">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMiranda&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HallanMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HallanMiranda&layout=compact&langs_count=7&theme=dark"/>
  </div>
   
   ## Some Tools that I work with
